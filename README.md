@@ -2,4 +2,4 @@
 My first repo
 
 
-Hallo
+It is my first one, I know it's a piece of shit
