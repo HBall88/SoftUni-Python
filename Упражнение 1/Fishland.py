@@ -1,0 +1,11 @@
+skumriq=float(input())
+caca=float(input())
+palamud=float(input())
+safrid=float(input())
+midi=int(input())
+pdone=1.60*skumriq*palamud
+sdone=1.80*caca*safrid
+mdone=7.50*midi
+sum=pdone+sdone+mdone
+sumdone="{:.2f}".format(sum)
+print(sumdone)

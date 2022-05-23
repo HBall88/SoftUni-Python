@@ -1,0 +1,11 @@
+nailon=int(input())*1.50+2*1.50
+boq=int(input())*14.50
+razreditel=int(input())*5.00
+torbichki=0.40
+chasove=int(input())
+dopboq=0.10*boq
+sum=nailon+boq+dopboq+razreditel+torbichki
+sumzachas=sum*0.30
+sumzamajstori=sumzachas*chasove
+result=sumzamajstori+sum
+print(result)

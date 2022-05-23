@@ -1,0 +1,9 @@
+zelcena=float(input())
+plodcena=float(input())
+kgzel=int(input())
+kgplod=int(input())
+zeleu=(zelcena*kgzel)/1.94
+plodeu=(plodcena*kgplod)/1.94
+o=zeleu+plodeu
+ogot="{:.2f}".format(o)
+print(ogot)

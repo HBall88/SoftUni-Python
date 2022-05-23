@@ -1,0 +1,20 @@
+x=float(input())
+y=float(input())
+h=float(input())
+prednastena=x*x-1.2*2
+zadnastena=x*x
+lqvastrana=x*y-1.5*1.5
+dqsnastrana=x*y-1.5*1.5
+pokrivlqv=x*y
+pokrivdesen=x*y
+pokrivpreden=x*h/2
+pokrivzaden=x*h/2
+zelenaplosht=prednastena+zadnastena+lqvastrana+dqsnastrana
+zelcena=zelenaplosht/3.4
+chervenaplosht=pokrivlqv+pokrivdesen+pokrivzaden+pokrivpreden
+chercena=chervenaplosht/4.3
+zelcenadone="{:.2f}".format(zelcena)
+chercenadone="{:.2f}".format(chercena)
+print(zelcenadone)
+print(chercenadone)
+#за да стане 20 реда

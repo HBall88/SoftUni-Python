@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../basic_syntax/.idea/basic_syntax.iml" filepath="$PROJECT_DIR$/../basic_syntax/.idea/basic_syntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/basic_syntax_more_ex.iml" filepath="$PROJECT_DIR$/.idea/basic_syntax_more_ex.iml" />
+    </modules>
+  </component>
+</project>
